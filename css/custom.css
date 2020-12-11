@@ -57,3 +57,6 @@
 .main{
 	flex: 2 1 100px;
 }
+p{
+	margin-top: auto
+}
